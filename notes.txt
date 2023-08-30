@@ -1,0 +1,13 @@
+configure google api keys
+    -create separate keys - dev vs prod
+    -lockdown prod key
+
+configure mongo
+    -create separate databases - dev vs prod
+    -?configure user for prod
+    -configure IP for prod
+
+npm run build   -   to create production build
+
+(frontend)  -   .env.production has updated production google api key added
+(backend)   -   nodemon.json still has development db_name and google api key 

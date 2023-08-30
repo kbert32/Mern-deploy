@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "kbert32",
+        "DB_PASSWORD": "ledzep",
+        "DB_NAME": "MERN",
+        "GOOGLE_API_KEY": "AIzaSyDPMsPSIXCtlkyhIfMXFgJIZ4xrOOri3Ns",
+        "JWT_KEY": "supersecret_token_keyword"
+    }
+}
